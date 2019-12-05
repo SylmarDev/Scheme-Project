@@ -3,9 +3,9 @@
 Oh boy. This took a little bit of doing to get right, but I think I have it all working here.
 
 Here's the code that you would use to get each fibbonacci number, with the two different functions.
-```scheme
+```scm
 ; Finds nth fibonacci number using standard recursion
-(fibonacci n) ; 
+(fibonacci n)
 ; Finds nth fibonacci number using tail recursion
 (fibtaildriver n)
 ```
